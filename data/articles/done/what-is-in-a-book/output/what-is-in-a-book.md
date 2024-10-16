@@ -1,0 +1,298 @@
+# Introduction
+
+The story of the word is written long and deep in the history of
+mankind. Our fascination with what is written demands solid analysis of
+its causes and its consequences. For now, I seek to liberate the context
+of what is at stake. While I demure from comprehensive deliberation, I
+will attempt to establish common cause with the earnest reader. My
+thesis statement is that books are fungible. This hypothesis relies on
+the premise of the cultural character of the written word. The best that
+an author can do is point towards objective truths beyond the shores of
+their time and place. Their epistemological island is of course an
+invitation to the reader to explore what the writer could not. The
+language the author employs, with its compositional lexical, syntax and
+semantic rapprochement are an attempt to scaffold at truths with
+provincial tools. Thus, what is necessarily permitted is the provincial
+attempt at the universal.
+
+# The Nature of Books
+
+What is a book? That is what I seek to answer. In this endeavor, what I
+must maintain is that the lust for words not blind us to the constituent
+nature of the written word. To accentuate the point, one can imagine
+what is required when composing a book. In this particular exercise, I
+care not what the book is physically composed of. When I refer to book,
+I mean the total sum of the written verbal content in the book proper.
+It is this verbal book that I examine. I will make no more distinction
+between the physical book and the verbal book albeit this one: the
+verbal book is the muse.
+
+## Typed Tuple
+
+In programming, the concept of a tuple is common place. It is merely a
+list of categories of things. For example, if one were to describe a
+specific car, one would use a make, model and year. These three
+qualities would be the tuple to describe the car. There are many
+different ways to formulate a tuple in the designation of an object. The
+impetus for this sort of formal rigor is to allow unambiguous
+identification of objects. This would lead trivially to algebraic and
+further formal analysis.
+
+The type of tuple is the cartesian product of the constituent
+categories. In the above example, the formalism would yield,
+
+$Cars := (Make \cdot Model \cdot Year)$.
+
+There should be nothing impressive about this. What is significant is
+the simplicity. One imagines that the goal of this formalism is the
+ability to specify and decompose more complicated objects into simpler
+ones. Being a bit more imaginative, one could invoke the notion of a
+vector space and the specfic car as a linear combination of the
+constituent categories. Since by the nature of being different types,
+the resulting combination should yield immiscible terms and thus do the
+categories maintain their identity.
+
+$Car_i := \alpha_i \cdot x_{make} + \beta_i \cdot x_{model} + \gamma_i \cdot x_{year}$
+
+where $x_{make}$, $x_{model}$ and $x_{year}$ are the respective
+categories and the scalar coefficients $\alpha_i$, $\beta_i$ and
+$\gamma_i$ are the scalar values that choose $x_{make}$, $x_{model}$ and
+$x_{year}$ respectively. The But this is not a book about tuples. The
+goal is their use as formal descriptors of an object.
+
+In the above example, we can use the tuple to identify a specific car.
+Of course, this tuple is anemic in that it does not exhaustive describe
+all possible cars. Not only are there other categories that would
+describe vehicles more aptly, but even within a concrete tuple, there
+are multiple instantiations allowed. So this attempt must be tempered by
+what is feasible and more importantly by what is desired. One could take
+this discussion of tuples in any direction they want. For example, I did
+not even mention that tuples themselves could easily be nested inside of
+another tuple. That is because my particular use for tuples is relative
+simple and straightforward. What follows next is a model attempt to
+differentiate books by a tuple.
+
+## Unique Identity of Books by Way of Typed Tuple
+
+A possible formulation of a tuple for books is,
+
+$Books := (Author \cdot Title \cdot Edition)$.
+
+This is a simple tuple that describes a book in terms of the properties
+I find significant. The author, title and edition, I maintain possess a
+unique identity. One could allow for other categories and thus this
+attempt would be deficient in this regard. A publisher could have
+different expectations of the book and change small attributes. In this
+formulation, there is not even a reference to the language of the book,
+even though it is language that inspired this composition in the first
+place.
+
+So what is meant by this? The intention, my intention, is that these
+additional categories of description do not inspire an alternative
+intention by the author. If the same book were written by the same
+author in two different languages, I would insist that they are the same
+book. The language is not the book. I claim that the intention of the
+author, captured by the tuple, is the book. Of course, I must claim this
+in a less formal and more ad hoc manner. I have not rigorous constructed
+such a book. And I refuse to. Having promulgated the formality of the
+idea, now I will demure and speak in more casual language.
+
+## The Dead Hand of Formality
+
+This jettison of matters formal is no innovation on my part. All that is
+meant is that I do not possess the proper formal semantics to encode the
+construction of the identity of books. Perchance, I will be my
+serendipity to casually come across the lumbering beast, or perhaps
+build it myself. For now, I resign from an informal description of the
+thing, the book, the word, since I can accomplish more by this occasion.
+I will leave the formalism of the identity of the book to future
+adventurers. I am too beside myself with languor to attempt such a feat
+now.
+
+# The Nature of Words
+
+In the previous exercise, I demonstrated that the identity of the book
+is commensurate with a tuple. Not necessarily my tuple but describable
+by one. However, what even this venture into rigor fails is that more
+important than the tuple is the intention of author. I claim that
+ultimately the identity of the book is the identity of the author's
+intention. What is the intention? What does the author intend? This is
+more important than the tuple. Perhaps a finer modeling of the tuple
+would allow for dictate by intention. Perhaps not. All that is needed to
+continue is that the tuple I created, that I jovially and eagerly hope
+would constitute a valid and unambiguous construction, fails. I believe
+that maybe a tuple with more finesse and a more apt panoply of
+categories to draw from could improve on my rough draft. That is not
+relevant. What is that ultimately material is that we will be modeling
+the intention of the author. Thus, the nature of words is the author's
+intention.
+
+## What We Mean By Words
+
+In the same way that Foucault sought to extricate the word from the
+identity of the author, we can go far in our analysis of the identity of
+a book by submitting as much. While the preceding paragraphs invited the
+reader to think of a book as being the consequence of the author's
+identity, the flow of the unilateral conversation can be reversed. In
+fact, I would prefer to see identity as a downstream consequence of the
+words themselves. At the risk of rendering my formal shenanigans a vice,
+I prefer the words foremost speak for themselves. This reflection of the
+direction of analysis I think is more conducive to my idiosyncratic
+style of thinking. The simple building blocks yield more profound
+creatures of insight. A small tangent aside, if words allow for the
+manifestation of more complex objects, then what is instigated is that
+the stream of consciousness that pervades minds is the ultimate source
+of identity. The inner monologue of the mind is commensurate with
+identity. At any rate, it is the words that we mean.
+
+# Putting the Author on Their Head
+
+If the words are a specie of identity, then words become the building
+blocks of identificatious objects. Even if I were to decouple the two
+conflated definitions of the word identity, formal algebraic identity
+and identity of the author, the conclusion would still hold. Thus, do
+not let my banal games with word sore you on the word as identity. The
+notion continues to command the lion's share of primary focus in this
+discussion. By now, it should be ensconced in the mind of the reader the
+path that is being tread towards the goal of sublimation of all to the
+written word. It is a formidable creation and we should behold it for
+the majesty that it is.
+
+That said, we should recite how much we have funambulated. The
+treacherous tight-rope path we have forged together is a testament to
+the strength of the written word. We started with looking at the
+identity of a book. We then sought to strengthen and produce a toolkit
+to describe the identity of a book. Next we put the author on their head
+and made their identity and explicit intention second to the written
+material they produced. This makes words the foremost phenomena in this
+analysis. Where I want to arrive now is that it is the words that
+achieve the identity of the book. The author and their intention is
+secondary to this affect.
+
+Now that we have our petulant little words, how do we achieve
+immortality of the spirit? Or rather, this bottom up approach to the
+study of words, we will find, is more conducive to the study of the
+nature of words. The words themselves the primal experience; all else is
+secondary. The words are the primary phenomena in question and in
+answer. The question this tract strategic analysis engenders is what
+advantage does this confer on our efforts? I would not be so
+presumptuous as to suggest this course of action without much thought
+dedicated to the consequences.
+
+What we gain is the world. Assigning words as the primary focus of our
+investigation, we develop a more functional model of semantics. When I
+say functional, I mean that the analysis of the word composite lends
+itself more to a viable approach of structuring in an unambiguous manner
+the projection of the semantic space generated by the words. I wish I
+could say more about semantics, but I have already drawn this
+conversation long by this tedious diversion.
+
+# Ambiguity, the Semantic Devil
+
+With this new approach to the study of words, we can now begin to
+address the space of meaning. The space of meaning is the space of all
+possible meanings. With the addition of every word, the space of
+semantics is narrowed. The eventual meaning that is arrived by the text
+is then attributed to the author. Thus, in this way, there can be an
+isomorphism between this new approach and \"author's intention\"
+approach. All this is in service of mitigating ambiguity. Any and all
+attempts at formal analysis must eventually confront how ambiguity
+bedevils and jeopardizes the validity of the enterprise. Truly,
+ambiguity is our own dear devil. All efforts in clarity and transparency
+must eventually develop their own or bootstrap formidable tools to
+combat the ambiguity and minimize it where ever they can.
+
+## Formal Ambiguity
+
+While I don't wish to belabor further this document (I am becoming bored
+of this topic at present), I want to speak speculatively about the
+nature of ambiguity. One would wish that we possessed a formal semantics
+to describe the nature of ambiguity. While there have attempts to define
+what is meant (or not meant) by ambiguity, they have faltered on domain
+specific shores. What I am asking for is a more general *ambiguity
+theory*. Dedicating an entire realm of literature to ambiguity will help
+us uncover the shared structure of ambiguity across different domains. I
+pray one sees how asking structure out of ambiguity is not any oxymoron.
+Maybe I will be the author. Or maybe you, dear reader.
+
+# Semantics as the Fungible Scaffold
+
+Semantics possesses a composite character. It is built upt incrementally
+by the addition lexical items and syntactic groups. It is in the
+particular assortment of these items that the meaning of the text is
+derived in a bottom up fashion. It can only be this way because the
+meaning of the text is the meaning of the words. As you may understand
+now, text is just shorthand for a collection of words. Given the
+composite nature of this enterprise of meaning, one can see how
+semantics scaffolds on itself. Thus, the final text is but a cumulative
+product of sequence of lexemes, collected into further syntactic groups.
+
+# Means by Any Other Mean
+
+The goal of any document or any treatise is to convey some eternal
+truth. At least, that is what ideally texts should be concerned with.
+While I realize that not all written material is concerned with
+objectivity, I am not practically concerned with these provincial works.
+Authors should write words and words should reach for the eternal.
+Looking at the converse, why should I concern myself with reading works
+that are not concerned with truth? I will leave it to my intellectual
+descendants to prove otherwise. Ah! the beauty of progenitors.
+
+## Fermented Lexemes
+
+Given that words suggests a relationship to eternal truths, we are now
+in an envious position to conclusive define the entire enterprise of
+words. Authors write to tell. Their words aim at the eternal through
+provisionally provincial means. The contemporaneous verbal expressions
+permeate the work. While the aim of the work remains true across
+centuries, the age of the rhetoric and other verbal devices starts to
+show. What is to be understood is the text at the time of writing. We
+can pin this semantic interpretation of the text by understanding the
+author's intention and the words. By pinning down these two categories
+with the text, the meaning of the text is forever fixed and accessible
+beyond the narrow bounds of culture and time.
+
+## Functional Space of Truth
+
+This gambit is support by the relative size of the functional space of
+truth. Eternal, read objective, truths are few and far between. However,
+the space of provincialism is much larger. That is because the latter
+contains snippets of the truth unfully realized. It is not quite a
+distortion of the truth but more of romance of whatever partial truth is
+possessed. This ascetic capture of the eternal invites a psychological
+assessment of why humans become enamored with their snippet of the
+truth. I will leave this for another time.
+
+What the above analysis suggests is that the space of truth is much
+smaller than attempts at the truth. If someone is trying at some truth,
+they are aiming at the same thing. One can imagine a metric space that
+collapses the distance of attempts at the truth towards their eternal
+goals. In this way, there is no formal distinction between attempts. And
+it is recognizing this fact that we can begin to rigorously declare a
+sort of algebra of truth.
+
+# Towards an Abelian Algebra of Epistemology
+
+The main ally of ambiguity is the reliance on order to dictate formal
+semantics. One can imagine a formal semantics that is agnostic to the
+order of the words. What I am saying has already been done for more
+domain specific domains. In mathematics, a commutative algebra is one
+that is agnostic to the order of the terms. Computation of any of the
+incumbent operators does not demand any particular order. I want that
+for truth. Truth should not depend on order. The only way to achieve
+this is by enriching our verbs or nouns or both. One can imagine *truth*
+operators that lust after truth; one can also imagine *truth* terms that
+contain the attempt.
+
+In this model, truth is understood as arrived at or not. This
+distinction relies on the semantic purview of sets from sets theory
+rather than sentences with their order-dependent reveal. This can be
+accomplished as mentioned in the previous paragraph by enriching our
+operational vocabulary of language. Formal semantics that remains
+immiscible under duplicates and faithful to attempts is the ideal
+mechanism to preserve commutativity. This is the algebra of truth. One
+that is not concordant and limited by the order of words. One can think
+of in comparison an analytical language and one that relies more on
+inflectional morphology. The latter relies heavily on enriched objects.
+Maybe someday we will have to pay the sins of pushing the pivots of
+syntax onto the lexicon. But today is not that day.
