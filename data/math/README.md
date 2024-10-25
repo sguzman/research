@@ -197,3 +197,6 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Norm as top-meta attribute
 - Emo theory: formalism, algebra and calculus for emotions
 - Differential emo theory: infinitisimal emo theory
+- `Word = un-word` morphological translation via affixes
+- Differential word embedding across years to track cultural attitudes
+- `Exp^{collatz}` Conjecture: evetually reaches 1
