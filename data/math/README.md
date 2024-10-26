@@ -200,3 +200,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - `Word = un-word` morphological translation via affixes
 - Differential word embedding across years to track cultural attitudes
 - `Exp^{collatz}` Conjecture: evetually reaches 1
+- $M_{2x2}$ homeomorphic to $R^{2}$
